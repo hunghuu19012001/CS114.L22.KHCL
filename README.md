@@ -1,2 +1,1 @@
 # CS114.L22.KHCL
-#BẢNG PHỤ LỤC
